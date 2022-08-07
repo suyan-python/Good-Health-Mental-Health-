@@ -8,8 +8,6 @@ import  DB from "./db.mjs";
 import {otp,session_login} from "./tools.mjs";
 import {webSocket} from "./ws.mjs";
 
-
-
 const app = express()
 const port = 3000
 
